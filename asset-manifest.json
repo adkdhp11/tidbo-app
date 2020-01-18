@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tidbo-app/static/css/main.a97a7588.chunk.css",
+    "main.js": "/tidbo-app/static/js/main.d0a88c2c.chunk.js",
+    "main.js.map": "/tidbo-app/static/js/main.d0a88c2c.chunk.js.map",
+    "runtime-main.js": "/tidbo-app/static/js/runtime-main.19c46654.js",
+    "runtime-main.js.map": "/tidbo-app/static/js/runtime-main.19c46654.js.map",
+    "static/js/2.9f671d62.chunk.js": "/tidbo-app/static/js/2.9f671d62.chunk.js",
+    "static/js/2.9f671d62.chunk.js.map": "/tidbo-app/static/js/2.9f671d62.chunk.js.map",
+    "index.html": "/tidbo-app/index.html",
+    "precache-manifest.7d997a7c39ae4210ebb2d2d966f56c76.js": "/tidbo-app/precache-manifest.7d997a7c39ae4210ebb2d2d966f56c76.js",
+    "service-worker.js": "/tidbo-app/service-worker.js",
+    "static/css/main.a97a7588.chunk.css.map": "/tidbo-app/static/css/main.a97a7588.chunk.css.map",
+    "static/js/2.9f671d62.chunk.js.LICENSE": "/tidbo-app/static/js/2.9f671d62.chunk.js.LICENSE",
+    "static/media/tidbo_logo_color.svg": "/tidbo-app/static/media/tidbo_logo_color.f1409621.svg",
+    "static/media/tm_back.svg": "/tidbo-app/static/media/tm_back.8d8c7db7.svg",
+    "static/media/tm_ham_menu.svg": "/tidbo-app/static/media/tm_ham_menu.86595150.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19c46654.js",
+    "static/js/2.9f671d62.chunk.js",
+    "static/css/main.a97a7588.chunk.css",
+    "static/js/main.d0a88c2c.chunk.js"
+  ]
+}
